@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-fast-pizza-props-function-component/static/css/main.710e5bda.css",
+    "main.js": "/react-fast-pizza-props-function-component/static/js/main.65767cd0.js",
+    "index.html": "/react-fast-pizza-props-function-component/index.html",
+    "main.710e5bda.css.map": "/react-fast-pizza-props-function-component/static/css/main.710e5bda.css.map",
+    "main.65767cd0.js.map": "/react-fast-pizza-props-function-component/static/js/main.65767cd0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.710e5bda.css",
+    "static/js/main.65767cd0.js"
+  ]
+}
