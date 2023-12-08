@@ -1,0 +1,42 @@
+.content {
+  width: 88%;
+  margin: 0 auto;
+}
+.products {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.content .product-list {
+  width: 48%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+}
+.content .product-details {
+  width: 46%;
+}
+.content img {
+  width: 90%;
+  height: 144px;
+  object-fit: contain;
+}
+.content .product-list-true {
+  width: 48%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+}
+.content .product-details-true {
+  width: 46%;
+}
+.content .product-details .product-name-true,
+.product-ingredients-true,
+.product-price-true {
+  color: #00000070;
+}
+.content .product-list-true .img > img {
+  filter: grayscale();
+}
